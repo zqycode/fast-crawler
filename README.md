@@ -18,7 +18,18 @@
 
 **core 抓取使用示例：**
 
-引用crawl-core 包，目前版本1.0-SNAPSHOT
+1. Clone this project 
+``` bash
+git clone https://github.com/chenrui1988/fast-crawler.git
+```
+
+2. build this project 
+``` bash
+cd fast-crawler
+mvn clean install
+```
+
+3. 引用crawl-core 包，目前版本1.0-SNAPSHOT
 ``` xml
 <dependency>
     <groupId>org.fast.crawler</groupId>
