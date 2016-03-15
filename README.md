@@ -1,6 +1,6 @@
 #微博网页自动抓取项目
 
-[![Build Status](https://travis-ci.org/chenrui1988/fast-crawler.svg?branch=master)](https://travis-ci.org/chenrui1988/fast-crawler)
+[![Build Status](https://travis-ci.org/rapid-develop/fast-crawler.svg?branch=master)](https://travis-ci.org/chenrui1988/fast-crawler)
 
 >本项目实现自动抓取微博和网页数据，支持微博认证，代理自动切换等功能。该抓取只支持定向的精准的抓取，不支持二级三级页面的抓取。
 
